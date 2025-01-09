@@ -1,4 +1,6 @@
 import numpy as np
+import matplotlib
+
 
 grade_list = []
 
