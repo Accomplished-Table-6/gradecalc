@@ -1,5 +1,5 @@
 import numpy as np
-import matplotlib
+import matplotlib as plt
 
 
 grade_list = []
